@@ -1,3 +1,9 @@
+----
+sd: 08-26-2022
+pr: null
+issue: null
+----
+
 # Bot API
 Bot's are an essential part of every chat platform. One of the biggest reasons Discord is loved so much is because of it's vast, easy, 
 and expansive Bot API along with many tools to help you learn.
